@@ -6,23 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-IE423 Project Part 1: https://github.com/BU-IE-423/fall-23-ardaaturan/blob/main/423_1_last.ipynb
+
 ```markdown
-Syntax highlighted code block
-
-# Header 123456
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+IE423 Project Part 1: https://github.com/BU-IE-423/fall-23-ardaaturan/blob/main/423_1_last.ipynb
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
