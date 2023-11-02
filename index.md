@@ -4,12 +4,13 @@ You can use the [editor on GitHub](https://github.com/BU-IE-423/fall-23-ilaydace
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
 Here are the links of Jupyter Notebook and html file of Project Part 1
-```markdown
 IE423 Project Part 1 Jupyter Notebook: https://github.com/BU-IE-423/fall-23-ardaaturan/blob/main/423_1_last.ipynb
 IE423 Project Part 1 html File: https://github.com/BU-IE-423/fall-23-ardaaturan/blob/main/423_1_last.html
+### Markdown
+
+```markdown
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
