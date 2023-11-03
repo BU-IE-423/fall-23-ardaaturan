@@ -10,6 +10,3 @@ Project Part 1
 
 [IE423 Project Part 1 html File](423_1_last.html)
 
-
-423_1_last.ipynb
-423_1_last.html
