@@ -10,3 +10,8 @@ Project Part 1
 
 [IE423 Project Part 1 html File](423_1_last.html)
 
+Project Part 2
+
+[IE423 Project Part 2 Jupyter Notebook](ie423_part2.ipynb)
+
+[IE423 Project Part 2 html File](ie423_part2.html)
