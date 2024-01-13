@@ -15,3 +15,7 @@ Project Part 2
 [IE423 Project Part 2 Jupyter Notebook](ie423_part2.ipynb)
 
 [IE423 Project Part 2 html File](ie423_part2.html)
+
+Project Part 3
+[IE423 Project Part 3 html File](423_part3.html)
+
